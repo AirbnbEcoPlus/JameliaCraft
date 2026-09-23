@@ -5,7 +5,7 @@
 ## Description
 
 JaneliaCraft is a Minecraft plugin that simulates part of the connectome of
-the fruit fly (*Drosophila melanogaster*) brain.
+the fruit fly (*Drosophila melanogaster*) brain of Janelia Research Campus.
 
 The project combines:
 
