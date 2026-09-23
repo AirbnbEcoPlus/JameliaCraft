@@ -1,0 +1,6 @@
+network-directory: "."
+nodes-file: "minecraft_connectome_nodes.csv"
+edges-file: "minecraft_connectome_edges.csv"
+visual-inputs-file: "visual_inputs.csv"
+motor-outputs-file: "motor_outputs.csv"
+top-results: 10

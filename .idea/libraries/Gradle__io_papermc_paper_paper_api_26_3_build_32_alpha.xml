@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.papermc.paper:paper-api:26.3.build.32-alpha" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.papermc.paper" artifactId="paper-api" version="26.3.build.32-alpha" baseVersion="26.3.build.32-alpha" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.papermc.paper/paper-api/26.3.build.32-alpha/c9ac9baecd52fb0f69b040f1d8a7ccbb999a81b1/paper-api-26.3.build.32-alpha.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.papermc.paper/paper-api/26.3.build.32-alpha/cce1cb049b9d704d05016f2f8f08186f871e1344/paper-api-26.3.build.32-alpha-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

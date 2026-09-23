@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.kyori:adventure-key:5.2.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="net.kyori" artifactId="adventure-key" version="5.2.0" baseVersion="5.2.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.kyori/adventure-key/5.2.0/32cf2afc230c0a932c71c30a86762246f23f345d/adventure-key-5.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.kyori/adventure-key/5.2.0/57f57c6e0ecc0d0fce3084b734b7056b2bf2e3c7/adventure-key-5.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

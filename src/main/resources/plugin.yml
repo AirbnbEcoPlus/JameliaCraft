@@ -1,0 +1,16 @@
+name: jameliacraft
+version: '${version}'
+
+main: fr.airbnbecoplus.jameliacraft.Jameliacraft
+api-version: '26.3'
+load: POSTWORLD
+
+commands:
+  janelia:
+    description: Runs the Janelia male CNS network
+    usage: /janelia run [bodyid] [steps] | /janelia spawn | /janelia inspect
+    permission: jameliacraft.run
+
+permissions:
+  jameliacraft.run:
+    default: op
