@@ -7,7 +7,7 @@
 ### Description
 
 JaneliaCraft est un plugin Minecraft qui permet de simuler une partie du
-connectome du cerveau de la mouche du vinaigre (*Drosophila melanogaster*).
+connectome du cerveau de la mouche de Janelia Research Campus.
 
 Le projet combine :
 
